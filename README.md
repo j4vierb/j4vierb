@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j4vierb
-- 👀 I’m interested in ML, algorithms and formal mathematics.
+- 👀 I’m interested in ML, web development and DSA.
 - 🌱 I’m currently learning web development and DSA.
 - 💞️ I’m looking to collaborate on open source projects. 
 
