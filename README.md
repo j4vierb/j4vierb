@@ -4,4 +4,4 @@
 - 👀 I’m interested in ML, web development and DSA.
 - 🌱 I’m currently learning web development and DSA.
 - 📚 This semester I'm taking some important courses: Machine Learning fundamentals, design and analysis of algorithms and software development.
-- 💕 I'm looking to do something important (anything).
+- 💕 Now, I want to develop an pastebin (without advertisements).
