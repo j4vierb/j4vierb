@@ -1,6 +1,6 @@
 ![background](./imgs/background.jpg)
 
-## General information
+## General
 
 - 👋 Hi, I’m @j4vierb. A fourth-fifth semester systems engineering student.
 - 👀 I’m interested in ML, web development and DSA.
