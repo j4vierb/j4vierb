@@ -1,5 +1,3 @@
-![background](./imgs/background.jpg)
-
 ## About me
 
 👋 Hi, I’m @j4vierb a systems engineering student from Colombia. 👀 I’m interested in ML, web development, datastructures and algorithms (DSA) and software architecture.
