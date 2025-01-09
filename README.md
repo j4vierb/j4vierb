@@ -1,6 +1,6 @@
 ## About me
 
-👋 Hi, I’m @j4vierb a systems engineering student from Colombia. 👀 I’m interested in ML, web development, datastructures and algorithms (DSA) and software architecture.
+👋 Hi, I’m Javier a systems and computing engineering student from Colombia. I’m interested in machine learning (ML), web development and software architecture.
 
 ## Stats
 
