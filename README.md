@@ -1,8 +1,10 @@
-## 🚀 About Me
+## Hi 👋, I'm Javier Barrera
+#### *Final Year Computer Science Student*
 
-👋 Hi, I’m Javier, a Systems and Computing Engineering student from Colombia. I’m passionate about learning new things and experimenting with emerging technologies. My interests include Machine Learning, Web Development, and Software Architecture. Currently, I’m diving into **Deep Learning** and **Quantum Computing** just for fun.
+I am a final year student at Universidad de los Andes, Bogotá, Colombia, I’m passionate about learning new things and experimenting with emerging technologies. My interests include **Machine Learning**, **Software development**, **Software architecture**, **Cloud computing**, **Statistics** and **Data science**.
 
-## 💻 My Dev Stats
+### About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=j4vierb&count_private=true&show_icons=true&hide_border=true&hide=stars&show_icons=true" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j4vierb&layout=compact&hide=batchfile,html,css&hide_border=true" />
+- 🌱 Currently expanding my skills in cloud-based solutions and neural networks, with a focus on classification problems.
+- 📚 Exploring Domain-Driven Design (DDD) and microservices architecture to build scalable and maintainable systems.
+- 🏃‍♀️ Preparing for a 10k race as part of my personal goals.
