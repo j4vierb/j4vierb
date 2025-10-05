@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Javier Barrera
-#### *Final-Year Systems and Computing Engineering Student*
+#### *Final-Year Systems and Computing Engineering Student (🇨🇴)* 
 
 I am a final year student at Universidad de los Andes, Bogotá, Colombia, I’m passionate about learning new things and experimenting with emerging technologies. My interests include **Machine Learning**, **Software development**, **Software architecture**, **Cloud computing**, **Statistics** and **Data science**.
 
